@@ -146,8 +146,37 @@ sections:
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+    text: |+
+      ### **IMPRESSUM**
+
+      **Angaben gemäß § 5 TMG:**
+
+      TESSA BERGMEIER
+      C/O WUNDERLING CONSULTING
+      SCHOENEBECKERSTRASSE 110a
+      39104 Magdeburg
+
+      DEUTSCHLAND
+
+      **KONTAKT:**
+
+      TELEFON: 015773318077
+
+      E-MAIL: tessa\@wunderling-consulting.com
+
+      **VERANTWORTLICH FÜR DEN INHALT NACH § 55 ABS. 2 RSTV:**
+
+      TESSA BERGMEIER
+      C/O WUNDERLING CONSULTING
+      SCHOENEBECKERSTRASSE 110a
+      39104 Magdeburg
+
+      DEUTSCHLAND
+
+
+
+
+
   - type: DividerSection
     styles:
       self:
