@@ -4,7 +4,7 @@
     "lastName": "Soto",
     "image": {
         "type": "ImageBlock",
-        "url": "https://assets.stackbit.com/components/images/default/default-image.png",
+        "url": "/images/15319150_10153993151081937_1623194486861022717_n.jpg",
         "altText": "altText of the image",
         "caption": "Caption of the image",
         "elementId": ""
