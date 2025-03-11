@@ -45,16 +45,5 @@ sections:
           - pr-4
         borderWidth: 1
         borderStyle: solid
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
 socialImage: /images/15319150_10153993151081937_1623194486861022717_n.jpg
 ---
