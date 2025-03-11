@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: Tessa Bergmeier
     subtitle: >-
       Tessa Bergmeier ist eine bekannte Persönlichkeit aus dem
