@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-d
+    colors: colors-f
     backgroundSize: full
     text: >+
       <div style="text-align: left">##### Hey, I’m Tessa.##### ##### Reality
