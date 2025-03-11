@@ -353,4 +353,5 @@ sections:
           - pl-4
         flexDirection: row
         textAlign: left
+socialImage: /images/15319150_10153993151081937_1623194486861022717_n.jpg
 ---
