@@ -13,13 +13,17 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: |+
-      <div style="text-align: left">#### Hey, I’m Tessa.
-      Reality star, model, and vegan activist. 
-      Born and raised in the world, and that’s where I’m based. 
-      Legendary Ex-GNTM, ex-this, ex-that—but always 100% me. 
-      When I’m not in front of the camera or fighting for animal rights, 
-      I’m probably enjoying a plant-based feast. 
+    text: >+
+      <div style="text-align: left">##### Hey, I’m Tessa.##### ##### Reality
+      star, model, and vegan activist.##### Born and raised in the world, and
+      that’s where I’m based.
+
+      Legendary Ex-GNTM, ex-this, ex-that—but always 100% me.
+
+      When I’m not in front of the camera or fighting for animal rights,
+
+      I’m probably enjoying a plant-based feast.
+
       Check out my journey @tessa.bergmeier</div>
 
     media:
