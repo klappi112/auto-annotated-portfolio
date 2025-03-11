@@ -12,11 +12,6 @@
                 "type": "Link",
                 "label": "Impressum",
                 "url": "/info"
-            },
-            {
-                "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
             }
         ],
         "socialLinks": [
