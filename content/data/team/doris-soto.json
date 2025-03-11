@@ -1,10 +1,12 @@
 {
     "type": "Person",
-    "firstName": "Doris",
-    "lastName": "Soto",
+    "firstName": "Tessa",
+    "lastName": "Bergmeier",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/about.jpg",
-        "altText": "Doris Soto photo"
+        "url": "/images/15319150_10153993151081937_1623194486861022717_n.jpg",
+        "altText": "altText of the image",
+        "caption": "Caption of the image",
+        "elementId": ""
     }
 }
