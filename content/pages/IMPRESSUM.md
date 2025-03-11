@@ -8,7 +8,7 @@ sections:
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
-    colors: colors-f
+    colors: colors-d
     variant: variant-a
     elementId: ''
     styles:
