@@ -47,7 +47,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "tessa@wunderling-consulting.de",
             "phoneAltText": "My phone number",
             "email": "tessa@wunderling-consulting.com",
             "emailAltText": "My email",
