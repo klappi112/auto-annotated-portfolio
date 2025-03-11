@@ -88,13 +88,85 @@ sections:
         textAlign: center
   - type: TextSection
     title: IMPRESSUM & DISCLAIMER
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      ### **HAFTUNGSAUSSCHLUSS (DISCLAIMER)**
+
+
+      #### **HAFTUNG FÜR INHALTE**
+
+
+      DIE INHALTE DIESER WEBSITE WURDEN MIT GRÖßTER SORGFALT ERSTELLT. FÜR DIE
+      RICHTIGKEIT, VOLLSTÄNDIGKEIT UND AKTUALITÄT DER INHALTE ÜBERNEHME ICH
+      JEDOCH KEINE GEWÄHR.
+
+
+      #### **HAFTUNG FÜR LINKS**
+
+
+      DIESE WEBSITE ENTHÄLT LINKS ZU EXTERNEN WEBSITES DRITTER, AUF DEREN
+      INHALTE ICH KEINEN EINFLUSS HABE. DESHALB KANN ICH FÜR DIESE FREMDEN
+      INHALTE AUCH KEINE GEWÄHR ÜBERNEHMEN. FÜR DIE INHALTE DER VERLINKTEN
+      SEITEN IST STETS DER JEWEILIGE ANBIETER ODER BETREIBER VERANTWORTLICH.
+
+
+      #### **URHEBERRECHT**
+
+
+      DIE DURCH DEN SEITENBETREIBER ERSTELLTEN INHALTE UND WERKE AUF DIESER
+      WEBSITE UNTERLIEGEN DEM DEUTSCHEN URHEBERRECHT. DIE VERVIELFÄLTIGUNG,
+      BEARBEITUNG, VERBREITUNG UND JEDE ART DER VERWERTUNG AUSSERHALB DER
+      GRENZEN DES URHEBERRECHTS BEDÜRFEN DER SCHRIFTLICHEN ZUSTIMMUNG DES
+      JEWEILIGEN AUTORS BZW. ERSTELLERS.
+
+
+
+      **IMPRESSUM**
+
+
+      **Angaben gemäß § 5 TMG:**
+
+
+      TESSA BERGMEIER
+
+
+      C/O WUNDERLING CONSULTING
+
+
+
+
+
+      DEUTSCHLAND
+
+
+      **KONTAKT:**
+
+
+      TELEFON: 015777501050
+
+
+      E-MAIL:  TESSA\@WUNDERLING-CONSULTING.DE
+
+
+
+      **VERANTWORTLICH FÜR DEN INHALT NACH § 55 ABS. 2 RSTV:**
+
+
+      TESSA BERGMEIER
+
+
+      SCHOENEBECKER STRASSE 110a
+
+
+      39104 MAGDEBURG
+
+
+      DEUTSCHLAND
+
+
+
+
+
+
     colors: colors-f
     variant: variant-a
     elementId: ''
