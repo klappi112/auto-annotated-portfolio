@@ -47,7 +47,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "015771807775",
+            "phoneNumber": "",
             "phoneAltText": "My phone number",
             "email": "tessa@wunderling-consulting.de",
             "emailAltText": "My email",
