@@ -13,19 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      <div style="text-align: left">##### Hey, I’m Tessa.##### ##### Reality
-      star, model, and vegan activist.##### Born and raised in the world, and
-      that’s where I’m based.
-
-      Legendary Ex-GNTM, ex-this, ex-that—but always 100% me.
-
-      When I’m not in front of the camera or fighting for animal rights,
-
-      I’m probably enjoying a plant-based feast.
-
-      Check out my journey @tessa.bergmeier</div>
-
+    text: "<div style=\"text-align: left\">**HEY, I’M TESSA.**\n\nREALITY STAR, MODEL, AND VEGAN ACTIVIST.\n\nBORN AND RAISED IN THE WORLD, AND THAT’S WHERE I’M BASED.**LEGENDARY EX-GNTM, EX-THIS, EX-THAT—BUT ALWAYS 100% ME.**\n\nWHEN I’M NOT IN FRONT OF THE CAMERA OR FIGHTING FOR ANIMAL RIGHTS,\n\nI’M PROBABLY ENJOYING A PLANT-BASED FEAST.CHECK OUT MY JOURNEY **@TESSA.BERGMEIER**.\U0001F525✨ LET ME KNOW IF YOU WANT ANY TWEAKS!\n\n</div>\n\n"
     media:
       type: ImageBlock
       url: /images/15319150_10153993151081937_1623194486861022717_n.jpg
