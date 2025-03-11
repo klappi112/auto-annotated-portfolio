@@ -14,10 +14,15 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+
+      Hey, I’m Tessa. Reality star, model, and vegan activist. Born and raised
+      in the world, and that’s where I’m based. Legendary Ex-GNTM, ex-this,
+      ex-that—but always 100% me. When I’m not in front of the camera or
+      fighting for animal rights, I’m probably enjoying a plant-based feast.
+      Check out my journey @tessa.bergmeier
+
+
+
 
     media:
       type: ImageBlock
