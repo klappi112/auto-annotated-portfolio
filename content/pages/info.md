@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: About
-colors: colors-a
+colors: colors-c
 backgroundImage:
   type: BackgroundImage
   url: /images/bg4.jpg
@@ -13,15 +13,10 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
-
+    text: "<div style=\"text-align: left\">**HEY, I’M TESSA.**</div>\n\nREALITY STAR, MODEL, AND VEGAN ACTIVIST.\n\nBORN AND RAISED IN THE WORLD, AND THAT’S WHERE I’M BASED.**LEGENDARY EX-GNTM, EX-THIS, EX-THAT—BUT ALWAYS 100% ME.**\n\nWHEN I’M NOT IN FRONT OF THE CAMERA OR FIGHTING FOR ANIMAL RIGHTS,\n\n[I’M PROBABLY ENJOYING A PLANT-BASED FEAST.CHECK OUT MY JOURNEY **@TESSA.BERGMEIER**](https://www.instagram.com/tessa.bergmeier/?hl=de).\U0001F525✨\n"
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/15319150_10153993151081937_1623194486861022717_n.jpg
       altText: Hero image
     styles:
       self:
@@ -39,318 +34,146 @@ sections:
           - pr-4
         textAlign: left
     type: HeroSection
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    subtitle: 'You can find me here:'
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
-        styles:
-          self:
-            textAlign: left
-    columns: 3
-    spacingX: 120
-    spacingY: 16
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: LabelsSection
-    colors: colors-f
-    subtitle: 'Skills:'
-    items:
-      - type: Label
-        label: 'WEB 1, 2, 3'
-      - type: Label
-        label: React
-      - type: Label
-        label: Microsoft Office
-      - type: Label
-        label: Next.js
-      - type: Label
-        label: Netlify
-      - type: Label
-        label: Pancakes
-      - type: Label
-        label: C++
-      - type: Label
-        label: Swift
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        subtitle: 'Experience:'
-        text: |-
-          **Current**
-
-          * freelance @freelance.me
-
-          **2018-2021**
-
-          * fullstack at this startup
-
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
-          **2015-2018**
-
-          * ba computer sciense at a semi fancy school
-
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
-        styles:
-          self:
-            textAlign: left
-    columns: 2
-    spacingX: 60
-    spacingY: 60
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
   - type: ContactSection
-    backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
-    colors: colors-f
+    title: Contact Me
+    text: I'm look forward to hearing from you.
     form:
       type: FormBlock
-      elementId: sign-up-form
+      title: Title of the form
       fields:
-        - name: firstName
-          label: First Name
+        - type: TextFormControl
+          name: name
+          label: Name
           hideLabel: true
-          placeholder: First Name
-          isRequired: true
+          placeholder: Your name
           width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
+          isRequired: 'true'
+        - type: EmailFormControl
+          name: email
+          label: Name
           hideLabel: true
-          placeholder: Last Name
-          isRequired: false
+          placeholder: Your email
           width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
+          isRequired: 'true'
+        - type: TextareaFormControl
+          name: message
+          label: Tell me about your project
           hideLabel: true
           placeholder: Tell me about your project
+          width: full
           isRequired: true
-          width: full
-          type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: Send Message
+      elementId: contact-form
       styles:
         self:
           textAlign: center
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
     styles:
       self:
         height: auto
         width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-4
-          - mr-4
         padding:
-          - pt-12
-          - pb-12
-          - pr-4
+          - pt-28
+          - pb-36
           - pl-4
+          - pr-4
         flexDirection: row
+        textAlign: center
+  - type: TextSection
+    title: IMPRESSUM & DISCLAIMER
+    text: >+
+      ### **HAFTUNGSAUSSCHLUSS (DISCLAIMER)**
+
+
+      #### **HAFTUNG FÜR INHALTE**
+
+
+      DIE INHALTE DIESER WEBSITE WURDEN MIT GRÖßTER SORGFALT ERSTELLT. FÜR DIE
+      RICHTIGKEIT, VOLLSTÄNDIGKEIT UND AKTUALITÄT DER INHALTE ÜBERNEHME ICH
+      JEDOCH KEINE GEWÄHR.
+
+
+      #### **HAFTUNG FÜR LINKS**
+
+
+      DIESE WEBSITE ENTHÄLT LINKS ZU EXTERNEN WEBSITES DRITTER, AUF DEREN
+      INHALTE ICH KEINEN EINFLUSS HABE. DESHALB KANN ICH FÜR DIESE FREMDEN
+      INHALTE AUCH KEINE GEWÄHR ÜBERNEHMEN. FÜR DIE INHALTE DER VERLINKTEN
+      SEITEN IST STETS DER JEWEILIGE ANBIETER ODER BETREIBER VERANTWORTLICH.
+
+
+      #### **URHEBERRECHT**
+
+
+      DIE DURCH DEN SEITENBETREIBER ERSTELLTEN INHALTE UND WERKE AUF DIESER
+      WEBSITE UNTERLIEGEN DEM DEUTSCHEN URHEBERRECHT. DIE VERVIELFÄLTIGUNG,
+      BEARBEITUNG, VERBREITUNG UND JEDE ART DER VERWERTUNG AUSSERHALB DER
+      GRENZEN DES URHEBERRECHTS BEDÜRFEN DER SCHRIFTLICHEN ZUSTIMMUNG DES
+      JEWEILIGEN AUTORS BZW. ERSTELLERS.
+
+
+
+      **IMPRESSUM**
+
+
+      **Angaben gemäß § 5 TMG:**
+
+
+      TESSA BERGMEIER
+
+
+      C/O WUNDERLING CONSULTING
+
+
+
+
+
+      DEUTSCHLAND
+
+
+      **KONTAKT:**
+
+
+      TELEFON: 015777501050
+
+
+      E-MAIL:  TESSA\@WUNDERLING-CONSULTING.DE
+
+
+
+      **VERANTWORTLICH FÜR DEN INHALT NACH § 55 ABS. 2 RSTV:**
+
+
+      TESSA BERGMEIER
+
+
+      SCHOENEBECKER STRASSE 110a
+
+
+      39104 MAGDEBURG
+
+
+      DEUTSCHLAND
+
+
+
+
+
+
+    colors: colors-f
+    variant: variant-a
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
         textAlign: left
+socialImage: /images/15319150_10153993151081937_1623194486861022717_n.jpg
 ---
